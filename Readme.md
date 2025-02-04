@@ -4,19 +4,83 @@
 [Intellij Idea Community] ()
 [Git] ()
 
-# Git
-```sh
+## Git
+```sh 
 git init
 git add .
 git commit -m "add message"
 git push -u origin master
 
-git clone
+git clone  https://github.com/hamitmizrak/ibb_ecodation_javacore.git
 ```
 ---
 
 ## Java Core
-```sh
+```sh 
 
 ```
 ---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+
+
+## Java Core
+```sh 
+
+```
+---
+````````
